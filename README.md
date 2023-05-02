@@ -2,6 +2,10 @@
 
 Creating my adapter and using it for ListView in kotlin.
 
+<img width="368" alt="Screenshot 2023-05-02 at 11 00 15 PM" src="https://user-images.githubusercontent.com/124916476/235741173-921ee0a1-14ef-49ea-aaad-67fcce5ecaab.png"><img width="361" alt="Screenshot 2023-05-02 at 11 02 07 PM" src="https://user-images.githubusercontent.com/124916476/235741187-20456744-51b9-48bc-af80-b8bc41c66310.png">
+
+
+
 MainActivity.kt File Code : 
 
     class MainActivity : AppCompatActivity() {
